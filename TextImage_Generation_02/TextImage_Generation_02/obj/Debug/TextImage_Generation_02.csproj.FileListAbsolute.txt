@@ -1,0 +1,28 @@
+D:\Рабочий стол\Мои проекты C# 2023\TextImage_Generation_02\TextImage_Generation_02\bin\Debug\TextImage_Generation_02.exe.config
+D:\Рабочий стол\Мои проекты C# 2023\TextImage_Generation_02\TextImage_Generation_02\bin\Debug\TextImage_Generation_02.exe
+D:\Рабочий стол\Мои проекты C# 2023\TextImage_Generation_02\TextImage_Generation_02\bin\Debug\TextImage_Generation_02.pdb
+D:\Рабочий стол\Мои проекты C# 2023\TextImage_Generation_02\TextImage_Generation_02\obj\Debug\TextImage_Generation_02.csproj.AssemblyReference.cache
+D:\Рабочий стол\Мои проекты C# 2023\TextImage_Generation_02\TextImage_Generation_02\obj\Debug\TextImage_Generation_02.csproj.CoreCompileInputs.cache
+D:\Рабочий стол\Мои проекты C# 2023\TextImage_Generation_02\TextImage_Generation_02\obj\Debug\TextImage_Generation_02.exe
+D:\Рабочий стол\Мои проекты C# 2023\TextImage_Generation_02\TextImage_Generation_02\obj\Debug\TextImage_Generation_02.pdb
+D:\Рабочий стол\Учёба 3й курс 2023\Мои проекты C# 2023\TextImage_Generation_02\TextImage_Generation_02\bin\Debug\TextImage_Generation_02.exe.config
+D:\Рабочий стол\Учёба 3й курс 2023\Мои проекты C# 2023\TextImage_Generation_02\TextImage_Generation_02\bin\Debug\TextImage_Generation_02.exe
+D:\Рабочий стол\Учёба 3й курс 2023\Мои проекты C# 2023\TextImage_Generation_02\TextImage_Generation_02\bin\Debug\TextImage_Generation_02.pdb
+D:\Рабочий стол\Учёба 3й курс 2023\Мои проекты C# 2023\TextImage_Generation_02\TextImage_Generation_02\obj\Debug\TextImage_Generation_02.csproj.AssemblyReference.cache
+D:\Рабочий стол\Учёба 3й курс 2023\Мои проекты C# 2023\TextImage_Generation_02\TextImage_Generation_02\obj\Debug\TextImage_Generation_02.csproj.CoreCompileInputs.cache
+D:\Рабочий стол\Учёба 3й курс 2023\Мои проекты C# 2023\TextImage_Generation_02\TextImage_Generation_02\obj\Debug\TextImage_Generation_02.exe
+D:\Рабочий стол\Учёба 3й курс 2023\Мои проекты C# 2023\TextImage_Generation_02\TextImage_Generation_02\obj\Debug\TextImage_Generation_02.pdb
+G:\0\1\1\1\2\Облачное хранилище\Архив\Учёба\6_Учёба 3й курс 2023 Final\Мои проекты C# и JS 2023\TextImage_Generation_02\TextImage_Generation_02\bin\Debug\TextImage_Generation_02.exe.config
+G:\0\1\1\1\2\Облачное хранилище\Архив\Учёба\6_Учёба 3й курс 2023 Final\Мои проекты C# и JS 2023\TextImage_Generation_02\TextImage_Generation_02\bin\Debug\TextImage_Generation_02.exe
+G:\0\1\1\1\2\Облачное хранилище\Архив\Учёба\6_Учёба 3й курс 2023 Final\Мои проекты C# и JS 2023\TextImage_Generation_02\TextImage_Generation_02\bin\Debug\TextImage_Generation_02.pdb
+G:\0\1\1\1\2\Облачное хранилище\Архив\Учёба\6_Учёба 3й курс 2023 Final\Мои проекты C# и JS 2023\TextImage_Generation_02\TextImage_Generation_02\obj\Debug\TextImage_Generation_02.csproj.AssemblyReference.cache
+G:\0\1\1\1\2\Облачное хранилище\Архив\Учёба\6_Учёба 3й курс 2023 Final\Мои проекты C# и JS 2023\TextImage_Generation_02\TextImage_Generation_02\obj\Debug\TextImage_Generation_02.csproj.CoreCompileInputs.cache
+G:\0\1\1\1\2\Облачное хранилище\Архив\Учёба\6_Учёба 3й курс 2023 Final\Мои проекты C# и JS 2023\TextImage_Generation_02\TextImage_Generation_02\obj\Debug\TextImage_Generation_02.exe
+G:\0\1\1\1\2\Облачное хранилище\Архив\Учёба\6_Учёба 3й курс 2023 Final\Мои проекты C# и JS 2023\TextImage_Generation_02\TextImage_Generation_02\obj\Debug\TextImage_Generation_02.pdb
+D:\Рабочий стол\TextImage_Generation_02\TextImage_Generation_02\TextImage_Generation_02\bin\Debug\TextImage_Generation_02.exe.config
+D:\Рабочий стол\TextImage_Generation_02\TextImage_Generation_02\TextImage_Generation_02\bin\Debug\TextImage_Generation_02.exe
+D:\Рабочий стол\TextImage_Generation_02\TextImage_Generation_02\TextImage_Generation_02\bin\Debug\TextImage_Generation_02.pdb
+D:\Рабочий стол\TextImage_Generation_02\TextImage_Generation_02\TextImage_Generation_02\obj\Debug\TextImage_Generation_02.csproj.AssemblyReference.cache
+D:\Рабочий стол\TextImage_Generation_02\TextImage_Generation_02\TextImage_Generation_02\obj\Debug\TextImage_Generation_02.csproj.CoreCompileInputs.cache
+D:\Рабочий стол\TextImage_Generation_02\TextImage_Generation_02\TextImage_Generation_02\obj\Debug\TextImage_Generation_02.exe
+D:\Рабочий стол\TextImage_Generation_02\TextImage_Generation_02\TextImage_Generation_02\obj\Debug\TextImage_Generation_02.pdb
